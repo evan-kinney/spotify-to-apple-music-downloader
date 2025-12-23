@@ -31,9 +31,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: Build macOS application
-        run: |
-          python setup.py py2app
-          mv dist/main.app "dist/Spotify to Apple Music Downloader.app"
+        run: python setup.py py2app
       
       - name: Create DMG
         run: |
