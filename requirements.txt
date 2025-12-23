@@ -1,0 +1,5 @@
+spotdl>=4.2.0
+tkinter-tooltip>=2.1.0
+mutagen>=1.47.0
+requests>=2.31.0
+py2app>=0.28.0
