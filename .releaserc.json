@@ -9,8 +9,8 @@
       {
         "assets": [
           {
-            "path": "artifacts/*.dmg",
-            "label": "Spotify to Apple Music Installer (DMG)"
+            "path": "artifacts/Spotify-to-Apple-Music-Downloader.dmg",
+            "label": "Spotify-to-Apple-Music-Downloader.dmg"
           }
         ]
       }
