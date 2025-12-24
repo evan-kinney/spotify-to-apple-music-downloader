@@ -1,4 +1,4 @@
-# <img src="images/AppIcon.png" width="25"/> Spotify to Apple Music Downloader
+# <img src="images/AppIcon.png" width="35"/> Spotify to Apple Music Downloader
 
 A Python application that downloads songs from Spotify and imports them into Apple Music on macOS.
 
